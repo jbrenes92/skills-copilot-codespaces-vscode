@@ -1,4 +1,4 @@
-// Create Web server application with Node.js
+// Create Web server
 // Run the server and send a request to the port 3000
 // Use the Postman to send a request to the server
 // Use the Postman to check the response
