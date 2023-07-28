@@ -1,10 +1,4 @@
-// Create Web server
-// Run the server and send a request to the port 3000
-// Use the Postman to send a request to the server
-// Use the Postman to check the response
-// Use the Postman to check the headers of the response
-// Use the Postman to check the body of the response
-// Use the Postman to check the status of the response
+// Create web server
 
 // Import the required modules
 const express = require('express');
